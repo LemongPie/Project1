@@ -27,3 +27,6 @@ print( num1 , '*', num2, '=', res)
 
 res= div_func(num1,num2)
 print( num1 , '/', num2, '=', res)
+
+res= _func(num1,num2)
+print( num1 , '**', num2, '=', res)
